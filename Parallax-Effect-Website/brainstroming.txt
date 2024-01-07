@@ -1,0 +1,5 @@
+There are two type to adding img
+1. img tag in html
+2. background-image: url(url of image);
+
+differens between image tag and Background-image tag!!!
