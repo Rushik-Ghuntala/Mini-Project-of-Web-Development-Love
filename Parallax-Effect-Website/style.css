@@ -81,7 +81,7 @@ section{
 }
 
 .desc{
-    position: relative;
+    position: absolute;
     padding: 0.5rem 2.5rem;
     top: 50%;
     left: 50%;
@@ -89,7 +89,7 @@ section{
     color: black;
     font-size: 3.5rem;
     font-weight: 400;
-    transform: translateX(-50px) translateX(-50px) translateZ(1px);
+    transform: translateX(-50px) translateX(-50px) translateZ(10px);
 }
 
 
